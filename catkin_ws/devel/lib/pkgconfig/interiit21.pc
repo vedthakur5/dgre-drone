@@ -1,0 +1,8 @@
+prefix=/home/vedthakur/catkin_ws/devel
+
+Name: interiit21
+Description: Description of interiit21
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
